@@ -1,5 +1,5 @@
 # Narrative-Finance-IITKGP
-This project is carring under Dr. Abhijeet Chandra from IIT Kharagpur and we are **expecting a publiction** from this work, all the relevant data and codes will be uploaded once we conclude our work. Please feel free to connect with the repo owner for any further information.
+This project is being carried under **Dr. Abhijeet Chandra from IIT Kharagpur** and we are **expecting a publiction** from this work, all the relevant data and codes will be uploaded once we conclude our work. Please feel free to connect with the repo owner for any further information.
 
 **Frameworks used in this projects and skills learnt:** PYTHON, NLP, SCRAPING, NLTK, GENISM, TEXTBLOB, CCM, PyTorch, Transformers.
 
